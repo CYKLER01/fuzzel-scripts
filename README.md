@@ -67,9 +67,9 @@ To launch these scripts with keybindings, add the following to your `hyprland.co
 
 ```conf
 # Fuzzel Scripts
-bind = SUPER, T, exec, ~/.local/bin/todo-fuzzel.sh
-bind = SUPER, G, exec, ~/.local/bin/supergfxctl.sh
-bind = SUPER_CTRL, K, exec, ~/.local/bin/keybinds.sh
+bind = SUPER, T, exec, ~/.local/bin/fuzzel_scripts/todo-fuzzel.sh
+bind = SUPER, G, exec, ~/.local/bin/fuzzel_scripts/supergfxctl.sh
+bind = SUPER_CTRL, K, exec, ~/.local/bin/fuzzel_scripts/keybinds.sh
 ```
 
 ## Uninstallation

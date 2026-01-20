@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # --- Configuration ---
-INSTALL_DIR="$HOME/.local/bin"
+INSTALL_DIR="$HOME/.local/bin/fuzzel_scripts"
 CONFIG_DIR_TODO="$HOME/.local/share/todo-fuzzel"
 
 # Script names

@@ -76,6 +76,7 @@ bind = SUPER_CTRL, K, exec, ~/.local/bin/fuzzel_scripts/keybinds.sh
 
 To remove the scripts and configuration files, run the `uninstall.sh` script from within the project directory:
 
+chmox +x uninstall.sh
 ```bash
 ./uninstall.sh
 ```
